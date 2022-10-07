@@ -1,0 +1,13 @@
+{
+    "editor.tabCompletion": "on",
+    "tabnine.receiveBetaChannelUpdates": true,
+    "emmet.triggerExpansionOnTab": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeActionsOnSave": {
+    
+    },
+}
