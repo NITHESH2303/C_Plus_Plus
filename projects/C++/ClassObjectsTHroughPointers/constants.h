@@ -1,0 +1,7 @@
+#ifndef CONDTANTS_H
+#define CONDTANTS_H
+
+
+const double PI {3.1415926535897932384626433832795};
+
+#endif // CONDTANTS_H
